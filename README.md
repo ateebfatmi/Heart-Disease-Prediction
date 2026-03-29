@@ -41,12 +41,19 @@ The dataset contains medical information of patients.
 
 # Technologies Used:
 Python
+
 Jupyter Notebook
+
 NumPy
+
 Pandas
+
 Matplotlib
+
 Seaborn
+
 Scikit-learn
+
 
 # Machine Learning Workflow
 
