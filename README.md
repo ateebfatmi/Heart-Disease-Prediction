@@ -1,6 +1,6 @@
 # Heart-Disease-Prediction
 
-Heart Disease Prediction using Machine Learning
+# Heart Disease Prediction using Machine Learning
 
 Project Overview
 Heart disease is one of the leading causes of death worldwide. Early prediction can help in timely treatment and prevention.
