@@ -13,17 +13,29 @@ The dataset contains medical information of patients.
 
 # Features used:
 Age – age of the patient
+
 Sex – gender (0 = Female, 1 = Male)
+
 ChestPainType – type of chest pain
+
 RestingBP – resting blood pressure
+
 Cholesterol – cholesterol level
+
 FastingBS – fasting blood sugar
+
 RestingECG – ECG results
+
 MaxHR – maximum heart rate achieved
+
 ExerciseAngina – exercise-induced angina
+
 Oldpeak – ST depression value
+
 ST_Slope – slope of ST segment
+
 HeartDisease – target variable (0 = No disease, 1 = Disease)
+
 
 The dataset contains medical information of patients.
 
@@ -71,8 +83,14 @@ The trained model predicts whether a patient has heart disease or not.
 # Results
 The models were compared based on accuracy.
 Example results:
+
 Logistic Regression → 84%
+
 Random Forest → 88%
+
 SVM → 86%
+
 KNN → 83%
+
 Random Forest provided the best performance.
+
