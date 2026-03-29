@@ -58,20 +58,24 @@ Scikit-learn
 # Machine Learning Workflow
 
 1. Data Collection
+
 Heart disease dataset in CSV format.
 
 2. Data Preprocessing
+
 Handling missing values
 Encoding categorical variables
 Converting data types
 Feature scaling
 
-4. Data Visualization
+3. Data Visualization
+
 Target distribution
 Correlation heatmap
 Feature relationships
 
-5. Model Training
+4. Model Training
+
 The following algorithms were used:
 Logistic Regression
 Random Forest
@@ -79,12 +83,14 @@ Support Vector Machine (SVM)
 K-Nearest Neighbors (KNN)
 
 5. Model Evaluation
+
 Model performance evaluated using:
 Accuracy score
 Confusion matrix
 Classification report
 
 6. Prediction
+
 The trained model predicts whether a patient has heart disease or not.
 
 # Results
